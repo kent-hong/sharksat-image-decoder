@@ -1,1 +1,1 @@
-
+# Extracts image & telemetry data
